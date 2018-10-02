@@ -4,7 +4,7 @@ Repository of Data and Analysis in paper Designing Response Scales with Multi-tr
 This repository stores the datasets, and LISREL Code to replicate the research findings in the article:
 "Designing response scales with multi-trait-multi-method experiments" by
 Diana Zavala-Rojas, Raül Tormos, Wiebke Weber & Melanie Revilla. This article is published in the
-Mathematical Population Studies journal (2018). DOI: https://doi.org/10.1080/08898480.2018.1439241
+Mathematical Population Studies journal (2018).
 
 If you use part of the code, datasets, and/or findings to inspire your own scientific work, please cite this article:
 
